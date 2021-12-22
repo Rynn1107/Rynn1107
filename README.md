@@ -2,6 +2,7 @@
 - 👀 I’m interested in manga
 - 🌱 I’m currently learning C++
 - 📫 How to reach me    https://www.facebook.com/duyisme.rynn
+                        duyisme2003@gmail.com
 
 <!---
 Rynn1107/Rynn1107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
